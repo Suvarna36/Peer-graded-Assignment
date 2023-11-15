@@ -15,7 +15,7 @@ Key components of data science include:
 
 Data scientists use a variety of tools and programming languages like Python, R, SQL, and others to perform these tasks and extract meaningful information from data for decision-making and problem-solving across diverse industries.
 
-### Data Science Languages:
+## Data Science Languages:
 - Python
 - R
 - SQL
@@ -23,9 +23,9 @@ Data scientists use a variety of tools and programming languages like Python, R,
 - Scala
 - MATLAB
 
-### Data Science Libraries:
+## Data Science Libraries:
 
-#### Programming Languages:
+### Programming Languages:
 - **Python**: 
   - NumPy: For numerical computing.
   - Pandas: For data manipulation and analysis.
@@ -37,11 +37,12 @@ Data scientists use a variety of tools and programming languages like Python, R,
   - ggplot2: For data visualization.
   - caret: For machine learning.
 
-#### Others:
+### Others:
 - **SQLAlchemy**: For SQL database interaction in Python.
 - **Apache Spark**: For big data processing and analytics.
 - **Hadoop**: For distributed storage and processing of large data sets.
-### Data Science Tools
+
+## Data Science Tools
 
 | Category            | Tools                                      |
 |---------------------|---------------------------------------------|
@@ -55,7 +56,7 @@ Data scientists use a variety of tools and programming languages like Python, R,
 | Version Control     | Git, GitHub, GitLab, Bitbucket              |
 | Integrated Environments | Jupyter Notebook, RStudio, Spyder, VS Code |
 
-# Arithmetic Expressions Examples
+## Arithmetic Expressions Examples
 
 Arithmetic expressions are fundamental mathematical operations performed on numerical values using operators such as addition, subtraction, multiplication, and division. They follow the basic principles of arithmetic and can involve constants, variables, and mathematical operations.
 
@@ -67,7 +68,7 @@ Arithmetic expressions are fundamental mathematical operations performed on nume
 4. **Division (/):** Dividing one number by another. Example: `20 / 4 = 5`.
 5. **Exponentiation (** or ^):** Raising a number to a power. Example: `2 ** 3 = 8` (2 raised to the power of 3).
 
-### Complex Expressions:
+## Complex Expressions:
 
 Arithmetic expressions can be more complex by combining multiple operations and following the order of operations (PEMDAS/BODMAS) to evaluate them correctly:
 
@@ -76,28 +77,28 @@ Arithmetic expressions can be more complex by combining multiple operations and 
 
 Understanding arithmetic expressions is essential for performing calculations in various fields, including mathematics, programming, finance, and more.
 
-# Multiplication and Addition of Numbers
-# Define numbers
+### Multiplication and Addition of Numbers
+### Define numbers
 num1 = 5
 num2 = 3
 num3 = 2
 
-# Perform multiplication and addition
+### Perform multiplication and addition
 result_multiply = num1 * num2  # Multiplication
 result_add = num1 + num3  # Addition
 
-# Print the results
+### Print the results
 print("Multiplication Result:", result_multiply)
 print("Addition Result:", result_add)
 
-# Convert Minutes to Hours
-# Define minutes
+## Convert Minutes to Hours
+### Define minutes
 minutes = 120
 
-# Convert minutes to hours
+### Convert minutes to hours
 hours = minutes / 60  # 1 hour = 60 minutes
 
-# Print the result
+### Print the result
 print(f"{minutes} minutes is equal to {hours} hours")
 
 ## Objectives
